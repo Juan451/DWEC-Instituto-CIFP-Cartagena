@@ -1,0 +1,6 @@
+1-Desarrolla un programa que pida por pantalla 3 numeros y calcule cual de
+esos 3 numeros introducidos es el mayor.
+2-Desarrolla un programa que calcule el iva de cualquier cantidad que pida por pantalla.
+3-Desarrolla un programa que pida un numero por pantalla y que calcule si es positivo o negativo.
+4-Desarrolla un programa que calcule los numeros impares del 1 al 500.
+5-Desarrolla un programa que haga la tabla de multiplicar de cualquier numero que pongas por pantalla.
